@@ -1,0 +1,5 @@
+beans\Lectoras.class
+beans\Prestamo.class
+beans\Usuario.class
+servlets\pruebaServlet.class
+connection\DBConnection.class
